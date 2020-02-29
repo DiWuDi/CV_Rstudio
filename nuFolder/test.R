@@ -1,2 +1,4 @@
+# an R script
 a <- c(1, 2, 3,4,5)
 mean(a)
+
